@@ -2,3 +2,16 @@
 .netlify
 /node_modules
 ./.env
+
+# Project documentation and non-relevant files
+implementation.md
+DESIGN.md
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
