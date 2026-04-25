@@ -14,16 +14,7 @@ const AboutPage = () => {
             <div className='underline'></div>
           </div>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat
-            accusantium sapiente tempora sed dolore esse deserunt eaque
-            excepturi, delectus error accusamus vel eligendi, omnis beatae.
-            Quisquam, dicta. Eos quod quisquam esse recusandae vitae neque
-            dolore, obcaecati incidunt sequi blanditiis est exercitationem
-            molestiae delectus saepe odio eligendi modi porro eaque in libero
-            minus unde sapiente consectetur architecto. Ullam rerum, nemo iste
-            ex, eaque perspiciatis nisi, eum totam velit saepe sed quos
-            similique amet. Ex, voluptate accusamus nesciunt totam vitae esse
-            iste.
+            Comfy Sloth was born out of a simple desire: to make high-quality, beautifully designed furniture accessible to everyone. We believe your home should be a sanctuary, a place where you can truly relax and be yourself. Our journey began in a small woodworking studio, where our founder started handcrafting custom tables and chairs for friends and family. Word quickly spread about the exceptional craftsmanship and attention to detail. Today, we've grown into a full-scale online boutique, yet we still hold onto those core values. Every piece in our collection is carefully curated to ensure it meets our strict standards for durability, aesthetics, and comfort. Whether you're looking for a statement sofa or a minimalist dining set, we're here to help you design your perfect comfort zone.
           </p>
         </article>
       </Wrapper>
